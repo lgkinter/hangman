@@ -1,0 +1,16 @@
+--- !ruby/object:Game
+secret_word: beerbohm
+board:
+- b
+- e
+- e
+- r
+- b
+- o
+- __
+- m
+guess: save
+misses:
+- a
+- u
+- i
